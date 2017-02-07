@@ -22,7 +22,7 @@ e.g. "watermark.png" i.e. you have to give name+extension
 
 To run the project, use fragilewatermarking.jar, it requires Java Runtime Environment(JRE).
 
-To use the project, import Watermarking folder in eclispe ide, with Windows Builder plug-in installed.
+To use the project, import source files available in Watermarking folder in eclispe ide, with Windows Builder plug-in installed.
 
 The excel file conatins results of various image manipulations done on watermarked image 
 and then extracting the watermark to compare with the original one.
