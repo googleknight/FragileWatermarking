@@ -1,4 +1,7 @@
 # FragileWatermarking
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0459d7f41bfc4c36b190dc438d287dd9)](https://www.codacy.com/app/shubham.mathur2014/FragileWatermarking?utm_source=github.com&utm_medium=referral&utm_content=googleknight/FragileWatermarking&utm_campaign=badger)
+
 Invisible Digital Image Watermarking in spatial domain using LSB bit manipulation
 
 I have made this project for Digital Image Processing subject in my 4th semester of B.Tech.
